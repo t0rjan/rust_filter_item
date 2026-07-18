@@ -106,3 +106,37 @@
   }
 ]
 ```
+## 资源
+```
+[
+  {
+    "TargetCategory": 3,
+    "MaxAmountInOutput": 0,
+    "BufferAmount": 0,
+    "MinAmountInInput": 0,
+    "IsBlueprint": false,
+    "TargetItemName": ""
+  }
+]
+```
+## 工具和电器
+```
+[
+  {
+    "TargetCategory": 5,
+    "MaxAmountInOutput": 0,
+    "BufferAmount": 0,
+    "MinAmountInInput": 0,
+    "IsBlueprint": false,
+    "TargetItemName": ""
+  },
+  {
+    "TargetCategory": 16,
+    "MaxAmountInOutput": 0,
+    "BufferAmount": 0,
+    "MinAmountInInput": 0,
+    "IsBlueprint": false,
+    "TargetItemName": ""
+  }
+]
+```
